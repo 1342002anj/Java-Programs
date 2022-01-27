@@ -32,3 +32,4 @@ class shapearea
     float a = (float)Math.sqrt(s(s-x)(s-y)(s-z));
     System.out.println("Area of the Triangle = "+ a);
     }		
+}
