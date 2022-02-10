@@ -4,7 +4,7 @@ class file1
 {
   public static void main(String[] args) throws Exception
    {
-     FileInputStream fin = new FileInputStream("e1.txt");
+     FileInputStream fin = new FileInputStream("hello.txt");
 int i = 1;
 int ch;
 System.out.print(i+"_");
